@@ -145,7 +145,7 @@ Plugins/**/Intermediate/*
 *.idea*
 .vscode
 *.opendb
-
+Developer
 
 
 # Especially for this project
